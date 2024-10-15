@@ -9,3 +9,24 @@ https://www.google.com/finance/?authuser=0
 https://g.dev/Contactloei
 https://g.co/kgs/rHZ9nuW
 https://en.m.wikipedia.org/wiki/Chiang_Khan_district
+<?xml version="1.0" เข้ารหัส="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title>Google Cloud Service Health Updates</title><updated>2024-10-10T01:27:56+00:00</updated>
+  <link href="https://status.cloud.google.com/" rel="alternate" type="text/html"></link>
+  <link href="https://status.cloud.google.com/en/feed.atom" rel="self"></link>
+  <author>
+    <name>Google Cloud</https://en.m.wikipedia.org/wiki/Chiang_Khan_district>https://en.m.wikipedia.org/wiki/Loei_province
+  </author>
+  <id>https://status.cloud.google.com/</id>
+  <รายการ>
+    <title>RESOLVED: AppEngine ผู้ใช้ที่ยืดหยุ่นอาจประสบปัญหาการตอบสนอง HTTP 429 เพิ่มขึ้น </title>
+    <link href="https://status.cloud.google.com/incidents/ZJyESmcEajZg2wMDJUg6" rel="alternate" type="text/html"></link>
+    <id>tag:status.cloud.google.com,2024:feed:ZJyESmcEajZg2wMDJUg6.3w7wQidypYhMdmqhAdH9</id>
+    <อัปเดต>2024-10-10T01:27:56+00:00</อัปเดต>
+    <สรุป type="html">&lt;p&gt; เหตุการณ์เริ่มต้นที่ &lt;strong&gt;2024-10-09 14:57&lt;/strong&gt; และสิ้นสุดที่ &lt;strong&gt;2024-10-09 17:18&lt;/strong&gt; &lt;span&gt;(เวลาทั้งหมดคือ &lt;strong&gt;US/Pacific&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;&lt;div class="cBIRi14aVDP__status-update-text"&gt;&lt;p&gt;สรุป: AppEngine ผู้ใช้ที่ยืดหยุ่นอาจประสบปัญหาการตอบสนอง HTTP 429 เพิ่มขึ้น &lt;/p&gt;
+&lt;p&gt;คําอธิบาย: ปัญหาเกี่ยวกับ Google AppEngine Flexible ได้รับการแก้ไขแล้วสําหรับผู้ใช้ที่ได้รับผลกระทบทั้งหมด ณ วันพุธที่ 2024-10-09 17:18 US/Pacific.&lt;/p&gt;
+&lt;p&gt;เราขอขอบคุณสําหรับความอดทนของคุณในขณะที่เราทํางานในการแก้ไขปัญหา &lt;/p&gt;
+&lt;/div&gt;&lt;hr&gt;&lt;p&gt;ผลิตภัณฑ์ที่ได้รับผลกระทบ: Google App Engine&lt;/p&gt;&lt;p&gt;สถานที่ที่ได้รับผลกระทบ: ไต้หวัน (เอเชีย-ตะวันออก1), ฮ่องกง (เอเชีย-ตะวันออก2), โตเกียว (เอเชีย-ตะวันออกเฉียงเหนือ1), โอซาก้า (เอเชีย-ตะวันออกเฉียงเหนือ2), โซล (เอเชีย-ตะวันออกเฉียงเหนือ3), มุมไบ (เอเชีย-ใต้1), สิงคโปร์ (เอเชีย-ตะวันออกเฉียงใต้1), จาการ์ตา (เอเชีย-ตะวันออกเฉียงใต้2), ซิดนีย์ (ออสเตรเลีย-ตะวันออกเฉียงใต้1), วอร์ซอ (ยุโรป-กลาง2), เบลเยียม (ยุโรป-ตะวันตก1), ลอนดอน (ยุโรป-ตะวันตก2), แฟรงก์เฟิร์ต (ยุโรป-ตะวันตก3), ซูริก (ยุโรป-ตะวันตก6), มอนเทรอัล (อเมริกาเหนือ-ตะวันออกเฉียงเหนือ1), เซาเปาโล (เซาท์อเมริกา-ตะวันออก1), ไอโอวา (us-central1), เซาท์แคโรไลนา (us-east1), เวอร์จิเนียตอนเหนือ (us-east4), ออริกอน (us-west1), ลอสแองเจลิส (us-west2), ซอลต์เลกซิตี้ (us- ตะวันตก3), ลาสเวกัส (us-west4)&lt;/p&gt;</สรุป>
+  </entry>
+</feed>
